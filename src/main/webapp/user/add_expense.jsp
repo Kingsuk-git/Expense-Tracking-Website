@@ -14,7 +14,7 @@
             
             <div class="nav-features">
                 <a href="#" class="nav-link">Dashboard</a>
-                <a href="#" class="nav-link">Add Expense</a>
+                <a href="add_expense.jsp" class="nav-link">Add Expense</a>
                 <a href="#" class="nav-link">Categories</a>
                 <a href="#" class="nav-link">Reports</a>
                 <a href="#" class="nav-link">Budget</a>
